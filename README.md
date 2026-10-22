@@ -43,6 +43,7 @@ The repository will grow as I explore new algorithms, solve problems, and streng
 
 ## 🗂️ Project Structure
 
+```text
 machine-learning/
 ├── README.md
 ├── 01_regression/
@@ -57,6 +58,7 @@ machine-learning/
 └── 04_time_series_forecasting/
     ├── notes/
     └── exercises/
+```
 
 ## 🛠️ Tools & Technologies
 
