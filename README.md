@@ -1,87 +1,78 @@
-# Machine-learning
-🤖 Machine Learning Learning Journey
-<p align="center">
-  <i>Learn • Understand • Apply • Improve</i>
-</p>
+<div align="center">
+
+# 🤖 Machine Learning
+
+### From Fundamentals to Practical Applications
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Focus](https://img.shields.io/badge/Focus-Data%20Science-green)
+
+</div>
 
 
+## 📌 About This Repository
 
-📌 About This Repository
-Welcome to my Machine Learning Learning Journey!
-This repository documents my progress in learning Machine Learning, with a focus on understanding fundamental concepts, exploring algorithms, and applying theoretical knowledge through practical exercises.
-Rather than simply writing code, my goal is to understand the logic behind each method, interpret its results, and develop the ability to explain Machine Learning concepts clearly and confidently.
-Each lesson is organized around three main components:
-📝 Personal Summary: A concise explanation of the concepts, based on my understanding of the lesson.
-💻 Practical Application 1: An implementation to explore how the concepts work in practice.
-📊 Practical Application 2: A second application to strengthen my understanding and explore the concepts further.
-📚 Learning Roadmap
-01. 📈 Regression
-Exploring regression techniques used to model relationships between variables and predict continuous numerical outcomes.
-What I aim to understand:
-The fundamental concepts of regression.
-How regression models work and make predictions.
-How to interpret model results and evaluate performance.
-Lesson Structure:
-📖 Summary & Key Concepts
-💻 Practical Application 1
-💻 Practical Application 2
-02. 🏷️ Classification
-Learning how classification algorithms assign observations to predefined categories based on their features.
-What I aim to understand:
-The difference between classification and regression.
-How classification algorithms make predictions.
-How to evaluate and interpret classification models.
-Lesson Structure:
-📖 Summary & Key Concepts
-💻 Practical Application 1
-💻 Practical Application 2
-03. 🔍 Clustering
-Discovering unsupervised learning techniques used to identify patterns and group similar observations without predefined labels.
-What I aim to understand:
-The principles of unsupervised learning.
-How clustering algorithms identify groups.
-How to interpret and evaluate clustering results.
-Lesson Structure:
-📖 Summary & Key Concepts
-💻 Practical Application 1
-💻 Practical Application 2
-04. ⏳ Time Series
-Exploring time series analysis and forecasting methods used to understand patterns in data collected over time.
-What I aim to understand:
-The main components and characteristics of time series.
-How to identify trends and temporal patterns.
-How to approach forecasting and interpret predictions.
-Lesson Structure:
-📖 Summary & Key Concepts
-💻 Practical Application 1
-💻 Practical Application 2
+Welcome to my Machine Learning learning journey!
 
+This repository contains my course summaries, theoretical notes, and practical exercises as I learn Machine Learning.
 
-⸻
+My learning method combines theory and practice: I study each course, summarize the key concepts, and then apply what I have learned through coding exercises and practical examples.
 
+The repository will grow as I explore new algorithms, solve problems, and strengthen my understanding of Machine Learning.
 
-🛠️ Tools & Technologies
-The tools used throughout this learning journey include:
-Python — Programming and implementation.
-Jupyter Notebook — Interactive coding, experimentation, and documentation.
-NumPy — Numerical computing.
-Pandas — Data manipulation and analysis.
-Matplotlib & Seaborn — Data visualization.
-Scikit-learn — Machine Learning algorithms and model evaluation.
-Tools and libraries will be introduced and used as needed throughout the lessons.
-🎯 Learning Objectives
-My main objectives are to:
-Build a solid foundation in Machine Learning.
-Connect statistical concepts with practical applications.
-Develop the ability to implement and evaluate Machine Learning models.
-Improve my interpretation of results and analytical reasoning.
-Strengthen my ability to communicate technical concepts clearly.
-Document my progress and continuously improve through practice.
-🌱 Progress & Commitment
-This repository represents an ongoing learning process. Each lesson is an opportunity to deepen my understanding, learn from mistakes, and develop stronger analytical and technical skills.
-I believe that real progress comes from understanding the concepts, applying them independently, questioning the results, and being able to explain the reasoning behind them.
-The objective is not just to make models work, but to understand why they work and what their results mean.
+## 🎯 Goals
+
+- Understand the fundamental concepts of Machine Learning.
+- Summarize courses and organize theoretical knowledge.
+- Practise implementing ML algorithms using Python.
+- Develop problem-solving and analytical thinking skills.
+- Learn how to evaluate and interpret model performance.
+- Apply Machine Learning techniques to real-world datasets.
+- Build a strong foundation for future Data Science projects.
+
+## 📚 Topics
+
+| # | Topic | Course Notes | Practice |
+|---|---|---|---|
+| 01 | Regression | 📖 Planned | 💻 Planned |
+| 02 | Classification | 📖 Planned | 💻 Planned |
+| 03 | Clustering | 📖 Planned | 💻 Planned |
+| 04 | Time Series Forecasting | 📖 Planned | 💻 Planned |
+
+## 🗂️ Project Structure
+
+machine-learning/
+├── README.md
+├── 01_regression/
+│   ├── notes/
+│   └── exercises/
+├── 02_classification/
+│   ├── notes/
+│   └── exercises/
+├── 03_clustering/
+│   ├── notes/
+│   └── exercises/
+└── 04_time_series_forecasting/
+    ├── notes/
+    └── exercises/
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Jupyter Notebook
+- Git & GitHub
+
+## 🚀 What's Next?
+
+I will continue exploring Machine Learning concepts, strengthening my theoretical understanding, and applying algorithms through practical exercises.
+
+My long-term goal is to combine Machine Learning, Data Analysis, and Economics to solve real-world problems.
 
 
+<div align="center">
 
-Learning step by step. Building knowledge through practice.
+ 🚀
+
+</div>
